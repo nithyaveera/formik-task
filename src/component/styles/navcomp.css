@@ -1,0 +1,13 @@
+.wish{
+    margin-top: 1vh;
+    padding: 5px;
+    border-bottom: 2px solid wheat;
+}
+.navbar-nav li{
+    margin-top: 3vh;
+}
+.bar a{
+    text-decoration: none;
+    color:wheat;
+    font-family: "Anta", sans-serif;
+}
