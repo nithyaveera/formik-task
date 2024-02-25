@@ -83,7 +83,7 @@ const EditComp = ({ id }) => {
                                     </div>
                                 </div>
                                 <div className='row'>
-                                    <div className="col-12 col-md-6">
+                                    <div className="col-12 ">
                                         <label className="form-label">ISBN Number</label>
                                         <input type="text" className="form-control" name='number' value={formik.values.number} id="inputAddress" onChange={formik.handleChange} placeholder="Enter ISBN Number" />
                                         <div className='text-danger'>{formik.errors.number}</div>
